@@ -1,6 +1,6 @@
 <?php
 
-/* php output method */
+/* php datatypes*/
 
 class myClass
 {
