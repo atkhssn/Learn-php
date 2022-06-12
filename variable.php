@@ -1,5 +1,7 @@
 <?php
 
+/* php variable */
+
 $fullName = "Atik Hassan ";
 
 echo $fullName;  // echo($fullName);
