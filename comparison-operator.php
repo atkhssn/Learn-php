@@ -11,7 +11,7 @@ $numberFour = 5;
 echo $numberOne     ==      $numberTwo;      //  Equals to ( == )
 echo "<br>";
 
-echo $numberOne     ===     $numberTwo;      //     Equals to with value and data-type ( === )
+echo $numberOne     ===     $numberTwo;      //     Identical, If two values and data-types are smae ( === )
 echo "<br>";
 
 echo $numberOne     !=      $numberThree;      //    Not Equals to ( != )
