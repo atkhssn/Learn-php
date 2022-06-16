@@ -1,6 +1,6 @@
 <?php
 
-/* php datatypes*/
+/* php data types*/
 
 class myClass
 {
